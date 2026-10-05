@@ -1,3 +1,3 @@
 # demo
-rhis is the redme text
+this is the redme text
 עדיף לא לכתוב בעברית..
